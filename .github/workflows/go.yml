@@ -38,4 +38,4 @@ jobs:
 
           golint ./...
 
-          golangci-lint
+          golangci-lint run
